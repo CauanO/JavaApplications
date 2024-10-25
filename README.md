@@ -1,18 +1,10 @@
-## Getting Started
+Descrição:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém uma coleção de atividades e exercícios práticos desenvolvidos em Java, projetados para reforçar conceitos básicos e intermediários da linguagem. As atividades abordam tópicos variados, como estruturas de controle, manipulação de dados, orientação a objetos, e mais. Ideal para quem deseja praticar e aprimorar suas habilidades em Java.
 
-## Folder Structure
+Estrutura do Repositório:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Atividades Básicas: Introdução à linguagem, variáveis, e estruturas de controle.
+Programação Orientada a Objetos (POO): Classes, herança, polimorfismo e encapsulamento.
+Manipulação de Dados: Arrays e outras estruturas.
+Projetos Adicionais: Aplicações práticas e desafiadoras para testar os conhecimentos adquiridos.
