@@ -22,4 +22,3 @@ Após compilar, execute o programa com o seguinte comando:
 java App
 ```
 
----
