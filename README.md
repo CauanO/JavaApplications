@@ -1,10 +1,25 @@
-Descrição:
+# Coleção de Programas em Java
 
-Este repositório contém uma coleção de atividades e exercícios práticos desenvolvidos em Java, projetados para reforçar conceitos básicos e intermediários da linguagem. As atividades abordam tópicos variados, como estruturas de controle, manipulação de dados, orientação a objetos, e mais. Ideal para quem deseja praticar e aprimorar suas habilidades em Java.
+Este repositório contém diversos programas em Java com diferentes funcionalidades. Abaixo estão as descrições e instruções para executar cada um deles.
 
-Estrutura do Repositório:
+---
 
-Atividades Básicas: Introdução à linguagem, variáveis, e estruturas de controle.
-Programação Orientada a Objetos (POO): Classes, herança, polimorfismo e encapsulamento.
-Manipulação de Dados: Arrays e outras estruturas.
-Projetos Adicionais: Aplicações práticas e desafiadoras para testar os conhecimentos adquiridos.
+## Passos para rodar o projeto
+
+### 1. Compile o projeto
+
+Navegue até o diretório do projeto e compile o arquivo `File.java`:
+
+```bash
+javac File.java
+```
+
+### 2. Execute o jogo
+
+Após compilar, execute o programa com o seguinte comando:
+
+```bash
+java App
+```
+
+---
