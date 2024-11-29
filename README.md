@@ -1,3 +1,9 @@
+## Status do Projeto
+
+[![Projeto Completo](https://img.shields.io/badge/Projeto-Completo-brightgreen)](#)
+
+---
+
 # Coleção de Programas em Java
 
 Este repositório contém diversos programas em Java com diferentes funcionalidades. Abaixo estão as descrições e instruções para executar cada um deles.
